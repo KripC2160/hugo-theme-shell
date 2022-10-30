@@ -3,7 +3,7 @@ Terminal-like theme with selectable color schemes.
 
 ![Screenshot](https://raw.githubusercontent.com/Yukuro/hugo-theme-shell/master/images/motion2.gif)
 
-## Quick Depoy
+## Quick Deploy
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Yukuro/hugo-theme-shell-example)  
 
 ## Features
